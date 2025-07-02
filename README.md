@@ -27,13 +27,11 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutik-gupta&show_icons=true&locale=en&layout=compact&theme=dark" alt="shrutik-gupta" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutik-gupta&show_icons=true&locale=en&layout=compact&theme=dark" alt="Github stats" />
 </p>
-<a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shrutik-gupta&theme=dark" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shrutik-gupta&theme=dark)](https://git.io/streak-stats)
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutik-gupta&show_icons=true&locale=en&theme=dark" alt="shrutik-gupta" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutik-gupta&show_icons=true&locale=en&theme=dark" alt="Github stats" />
 </p>
 
 
