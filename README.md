@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shrutikgupta07@gmail.com**
 
-- 📄 Know about my experiences - [**Resume**](https://portfolio-olive-nine-52.vercel.app/uploads/resume.pdf)
+- 📄 Know about my experiences - [**Resume**](https://shrutik.online/resume.pdf)
 
 - ⚡ Fun fact **I vlog sometimes**
 
