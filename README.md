@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **next.js**
 
-- 👨‍💻 All of my projects are available at [**my portfolio**](https://shrutik.vercel.app/)
+- 👨‍💻 All of my projects are available at [**my portfolio**](https://shrutik.online)
 
 - 💬 Ask me about **web developement**
 
